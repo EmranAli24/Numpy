@@ -63,7 +63,7 @@ Feel free to fork this project, make improvements, or add your own examples. If 
 
 This project was created and maintained by **Emran Ali**. 
 - Github: [EmranAli24](https://github.com/EmranAli24)
-- LinkedIn: [Emran Ali](https://www.linkedin.com/in/emran-ali) *(optional)*
+- LinkedIn: [Emran Ali](https://www.linkedin.com/in/emran-ali) 
 
 ## License
 
